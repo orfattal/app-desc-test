@@ -6,7 +6,7 @@
     "name": "Snyk",
     "url": "https://snyk.io"
   },
-  "baseUrl": "https://bitbucket.atlassian.snykapps.io",
+  "baseUrl": "https://dev.bitbucket.atlassian.snykapps.io",
   "authentication": {
     "type": "jwt"
   },
